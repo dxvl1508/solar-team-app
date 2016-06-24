@@ -1,4 +1,4 @@
-# Queens-Solar-team-app
+# Queens-Solar-Team-App
 Basic Application for the Queen's Solar Design Team
 
 Project Outline
